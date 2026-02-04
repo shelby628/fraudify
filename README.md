@@ -36,6 +36,14 @@ The system consists of three main layers:
   - Stage 1 real-time screening model
   - Stage 2 post-transaction confirmation model
   - Probability-based decision control
+ 
+
+## Screenshots
+<img width="920" height="433" alt="image" src="https://github.com/user-attachments/assets/6511c378-8dcd-4301-89b4-ecbbe79526fe" /> <br>
+<img width="924" height="403" alt="image" src="https://github.com/user-attachments/assets/c92fe95e-c885-4fd9-84cc-91aec48e9318" /> <br>
+<img width="924" height="443" alt="image" src="https://github.com/user-attachments/assets/172802c9-e383-4ea2-bee0-66b00d724646" /> <br>
+
+
 
 
 
